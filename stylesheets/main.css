@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background: rgb(38, 93, 133);
+	color: white;
+	font-size: 20px;
+	margin: auto;
+	padding-left: 10%;
+	border-left: 10%;
+	margin-left: 10%;
+	margin-right: 5%;
+
+}
+h1{
+	color: brown
+}
+
+.container {
+	width: 70%;
+	margin:auto;
+	border: 5px red solid;
+	padding: 1%;
+	background: #000;
+}
+.box-1 {
+	background: #555;
+	margin: auto;
+	border-right: 10px red solid;
+	border-left: 10px white solid;
+	border-bottom: 0px;
+	border-top: 0px;
+	border-style: dashed;
+	padding: 1%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+}
+
+.box-1 h1{
+	font-family: Tahoma;
+	font-weight: 800;
+	font-style: italic;
+	color: yellow;
+	text-decoration: underline;
+	letter-spacing: 0.2em;
+	word-spacing: 1em;
+}
